@@ -1,2 +1,0 @@
-# MoneyNet
-Managing Loans
